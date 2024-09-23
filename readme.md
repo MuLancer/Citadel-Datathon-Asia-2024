@@ -1,4 +1,4 @@
-# Understanding the Impact of Meat Production on the U.S. Economy and Society
+# Understanding the Impact of Processed Food Production on the U.S. Economy and Society
 
 This project focuses on analyzing datasets to understand the footprint of processed food in the United States. Our team consists of:
 
