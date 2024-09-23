@@ -1,54 +1,31 @@
-# Project Description
+# Understanding the Impact of Meat Production on the U.S. Economy and Society
 
 This project focuses on analyzing datasets to understand the footprint of processed food in the United States. Our team consists of:
 
-- Choi Yat Long (National University of Singapore)
-- Lihua Guo (Tsinghua University)
-- Mulan Qin (National University of Singapore)
-- Ruichen Li (University of Sydney)
+- **Choi Yat Long** (National University of Singapore)  
+- **Lihua Guo** (Tsinghua University)  
+- **Mulan Qin** (National University of Singapore)  
+- **Ruichen Li** (University of Sydney)
 
-Shortlisted in the Top 30 teams for the APAC Citadel Datathon 2024, we tackled two key questions: the relationship between meat production and the financial market, and the uniformity of its impact on various stakeholders. We developed a Poultry Production Index (PPI) and evaluated its ability to predict annual stock returns in the processed food sector using the Granger Causality Test. We also examined the link between meat production, obesity trends, and socio-economic indicators, finding that while meat production positively correlates with employment rates, it significantly contributes to rising obesity rates, especially in middle-aged populations.
+Shortlisted in the Top 30 teams for the APAC Citadel Datathon 2024, we addressed two key questions: the relationship between meat production and the financial market, and the equity and uniformity of its impact on various stakeholders. We developed a Poultry Production Index (PPI) and evaluated its predictive power on annual stock returns in the processed food sector using the Granger Causality Test. Additionally, we explored the connection between meat production, obesity trends, and socio-economic indicators, discovering that while meat production positively correlates with employment rates, it significantly contributes to rising obesity rates, particularly in middle-aged populations.
 
-## Abstract
-In recent years, the U.S. economy has experienced growth alongside an increase in obesity, a disease of affluence. A key contributor to these trends is the processed meat industry, which plays a vital role in the economy and American fast-food culture. However, the comprehensive impact of meat production on the financial market and society has been underexplored.
+## Executive Summary
 
-This report aims to clarify the relationship between meat production and its broader financial and societal effects. Our analysis revealed a negative correlation between meat production and stocks in the processed food sector. Socially, meat production promotes unhealthy eating habits and drives obesity rates higher, while also contributing to lower unemployment by creating job opportunities.
+### 1.1 Background
+The US economy has been flourishing since the 2008 financial crisis. Without a shadow of a doubt, prosperity is always one of the goals that every government fights for. Nevertheless, some may have noticed affluence is also associated with some illnesses, known as diseases of affluence. Office workers may order fast food to save time for work, while others may simply prefer a more convenient lifestyle.
 
-In summary, while meat production supports the macroeconomy, it requires government intervention to address the associated public health challenges.
+Originating in the US, fast food has become a popular choice for many citizens. A quick visit to a nearby fast food restaurant offers customers delicious burgers, French fries, and Coke. However, when health issues are overlooked, processed meat becomes very tempting. As a result, fast food chains and processed meat companies are enjoying strong financial health.
 
+Unfortunately, by neglecting proper dietary habits and healthy lifestyles, obesity has surged to 33% in recent years. A diet with excessive meat and fewer vegetables can lead to obesity, which is associated with numerous illnesses, including diabetes. Therefore, addressing obesity is of utmost importance, as its impact on the healthcare system and society could be overwhelming.
 
+To further investigate the relationship between increasing processed meat production and its effects on society, this report conducts research to uncover how these trends impact us.
 
+### 1.2 Main Questions
+In this study, we address two central questions:
+1. Could meat production be an indicator for the financial health, as reflected by stock market performance?
+2. What is the social impact of meat production on different stakeholders?
 
-
-
-
-
-
-
-
-The abstract is In recent years, the U.S. economy has experienced
-growth, paralleled by an increase in a disease of affluence,
-obesity. A significant contributor behind these trends may
-be the processed meat industry, a cornerstone of the economy
-and a staple in the American fast-food culture. Until
-now, the comprehensive impact of meat production on the financial
-market and the society has remained underexplored.
-This report aims to elucidate the relationship between meat
-production and its broader financial and societal effects.
-Our study begins with an analysis of the correlation between
-meat production and financial markets, revealing a
-negative correlation with stocks in sectors related to processed
-food. We further examined the social ramifications
-of meat production, highlighting its role in promoting unhealthy
-eating habits and increasing obesity rates, while also
-contributing to a lower unemployment rate by providing employment
-opportunities.
-In summary, although meat production bolsters the
-macroeconomy, it necessitates governmental intervention to
-address the accompanying health challenges.
-
-
-
-
-
-
+### 1.3 Key Findings
+1. To explore the relationship between meat production and the stock market, we introduced the Poultry Production Index (PPI) as an innovative metric reflecting meat production levels and its correlation with obesity rates. Our investigation reveals significant negative correlations between PPI and the annual stock returns of companies in the processed food sector. Companies such as Starbucks, Pilgrim’s Pride Corp, and Conagra Brands serve as notable examples of this trend. Moreover, our Granger causality analysis substantiates the predictive power of PPI values on stock returns, particularly within the manufacturing sector. This suggests that increases in meat production, as indicated by rising PPI values, may paradoxically have a negative impact on the financial performance of the processed food industry.
+   
+2. Meat production has a positive effect on employment, likely due to the increased job opportunities it provides. However, it also contributes to higher obesity rates, likely by changing people’s eating habits. As meat production rises, fewer people are consuming an adequate amount of vegetables, leading to health concerns.
